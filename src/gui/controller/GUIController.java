@@ -15,7 +15,6 @@ public class GUIController
 		appFrame = new GUIFrame(this);
 	}
 	
-	
 	public void start()
 	{
 		
