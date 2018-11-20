@@ -55,7 +55,7 @@ public class GUIPanel extends JPanel
 	{
 		firstButton.addActionListener(new ActionListener()
 		{
-			public void actionPerformed(ActionEvent mouseCLick)
+			public void actionPerformed(ActionEvent mouseCLick) // this has to be exactly this
 			{
 				changeBackground();
 			}
