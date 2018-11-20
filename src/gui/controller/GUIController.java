@@ -12,7 +12,7 @@ public class GUIController
 	{
 		myDuck = new Duck();
 		
-		appFrame = new GUIFrame();
+		appFrame = new GUIFrame(this);
 	}
 	
 	
